@@ -1,4 +1,3 @@
-# dental-clinic
 # Dental Clinic Management System
 
 ## Overview
